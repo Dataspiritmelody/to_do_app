@@ -1,0 +1,2 @@
+clean kitchen
+clean room
